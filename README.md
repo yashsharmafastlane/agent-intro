@@ -45,3 +45,12 @@ npm run dev
 
 - [Mastra](https://mastra.ai) — AI agent framework
 - TypeScript + ESM
+
+## Contributing
+
+Contributions are welcome! To propose a change:
+
+1. For substantial changes, open an issue first to discuss the approach.
+2. Fork the repository (or create a branch) and make your change.
+3. For code changes, run `npm install` and verify with `npx tsc --noEmit` before submitting.
+4. Open a pull request against `main` with a clear description of what changed and why.
